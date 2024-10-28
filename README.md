@@ -1,6 +1,6 @@
 # Project context
 
-For a basic introduction to the Public Beta please consult the factsheet on eid.admin.ch: [Factsheet on eid.admin.ch](https://backend.eid.admin.ch/fileservice/sdweb-docs-prod-eidch-files/files/2024/09/19/d6944976-2e80-4bdd-9f73-ba4e0638396e.pdf)
+For a basic introduction to the Public Beta please consult the factsheet on eid.admin.ch: [Factsheet on eid.admin.ch](https://backend.eid.admin.ch/fileservice/sdweb-docs-prod-eidch-files/files/2024/10/24/fdbcf1fa-7f33-4f27-80d6-44f14d991939.pdf)
 
 Following the successful milestone of the eLFA project, our next major step towards the Swiss e-ID and its trust infrastructure is the **Public Beta** phase, launching in Q1 2025. Public Beta will allow ecosystem participants to integrate and experiment with their business cases, including using a Beta ID credential.
 
