@@ -35,9 +35,7 @@ The onboarding process for the base- and trust-registry will be published as soo
 
 We integrate various technologies in the swiss infrastructure. You can view the supported specifications and the integrated versions in the following repository: 
 
-Swiss Profile https://github.com/e-id-admin/open-source-community/tree/main/tech-roadmap/rfcs
-
-Swiss Trust protocol https://github.com/e-id-admin/open-source-community/tree/main/tech-roadmap/rfcs
+Swiss Profile https://github.com/e-id-admin/open-source-community/tree/main/tech-roadmap/swiss-profile.md
 
 
 
