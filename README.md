@@ -62,6 +62,6 @@ The project consists of multiple repositories for each component.
 
 - Issuer-agent → will be published soon
 
-- Verify-agent → will be published soon
+- Verifier-agent → will be published soon
 
 - LicenceCheck → [Github repository](https://github.com/e-id-admin/eidch-public-beta-elfa-licence-check)
