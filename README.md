@@ -56,9 +56,9 @@ The project consists of multiple repositories for each component.
 
 - didtoolbox → [Github repository](https://github.com/e-id-admin/didtoolbox)
 
-- iOS Wallet app → [Github repository](https://github.com/e-id-admin/eidch-public-beta-ios-wallet)
+- iOS Wallet app → [Github repository](https://github.com/e-id-admin/eidch-ios-wallet)
 
-- Android Wallet app → [Github repository](https://github.com/e-id-admin/eidch-public-beta-android-wallet)
+- Android Wallet app → [Github repository](https://github.com/e-id-admin/eidch-android-wallet)
 
 - Issuer-agent → will be published soon
 
