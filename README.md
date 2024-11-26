@@ -53,6 +53,8 @@ The project consists of multiple repositories for each component.
 - didresolver-swift → [Github repository](https://github.com/e-id-admin/didresolver-swift)
 
 - didresolver-kotlin → [Github repository](https://github.com/e-id-admin/didresolver-kotlin)
+  
+- didresolver-kotlin-android → [Github repository](https://github.com/e-id-admin/didresolver-kotlin-android)
 
 - didtoolbox → [Github repository](https://github.com/e-id-admin/didtoolbox)
 
