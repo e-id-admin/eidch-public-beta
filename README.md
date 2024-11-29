@@ -22,9 +22,14 @@ The Public Beta environment is designed to test and refine the e-ID technology s
 
 - **Community Development**: Core libraries and shared components are developed openly with the community, with ongoing updates.
 
-- **Internal Development**: Specific apps, registries, and components are developed privately and released publicly upon completion, so daily updates may not always be visible.
+- **Internal Development**: Specific apps, registries, and components are developed privately and released publicly after each sprint. The published code can therefore only be a snapshot of the current development and not a thoroughly tested version.
 
-Public Beta is a critical milestone on the path to the final e-ID and its trust infrastructure, laying the groundwork for the productive environments that will follow.
+Public Beta is a critical milestone on the path to the final e-ID and its trust infrastructure, laying the groundwork for the productive environments that will follow. We welcome contributions from the community in a variety of forms. Please refer to contributing.md in the respective repository for further information.
+
+## Third party code
+
+
+
 
 # How to use the Public Beta
 
@@ -66,4 +71,4 @@ The project consists of multiple repositories for each component.
 
 - Verifier-agent → will be published soon
 
-- LicenceCheck → [Github repository](https://github.com/e-id-admin/eidch-public-beta-elfa-licence-check)
+
