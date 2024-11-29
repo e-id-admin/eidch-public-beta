@@ -26,10 +26,6 @@ The Public Beta environment is designed to test and refine the e-ID technology s
 
 Public Beta is a critical milestone on the path to the final e-ID and its trust infrastructure, laying the groundwork for the productive environments that will follow. We welcome contributions from the community in a variety of forms. Please refer to contributing.md in the respective repository for further information.
 
-## Third party code
-
-
-
 
 # How to use the Public Beta
 
