@@ -1,6 +1,8 @@
+![24 github_banner-publicbeta v0 2](https://github.com/user-attachments/assets/20c6b3bf-7e16-4f5a-a98e-139330fd00d7)
+
 # Public Beta context
 
-For a basic introduction to the Public Beta please consult the factsheet on eid.admin.ch: [Factsheet on eid.admin.ch](https://backend.eid.admin.ch/fileservice/sdweb-docs-prod-eidch-files/files/2024/10/24/fdbcf1fa-7f33-4f27-80d6-44f14d991939.pdf)
+For a basic introduction to the Public Beta please consult the [factsheet on eid.admin.ch](https://backend.eid.admin.ch/fileservice/sdweb-docs-prod-eidch-files/files/2024/10/24/fdbcf1fa-7f33-4f27-80d6-44f14d991939.pdf).
 
 Following the successful milestone of the eLFA project, our next major step towards the Swiss e-ID and its trust infrastructure is the **Public Beta** phase, launching in Q1 2025. Public Beta will allow ecosystem participants to integrate and experiment with their business cases, including using a Beta ID credential.
 
@@ -32,12 +34,9 @@ Public Beta is a critical milestone on the path to the final e-ID and its trust 
 The onboarding process for the base- and trust-registry will be published as soon as possible.
 
 
-# Specification
+# Specifications
 
-We integrate various technologies in the swiss infrastructure. You can view the supported specifications and the integrated versions in the following repository: 
-
-Swiss Profile https://github.com/e-id-admin/open-source-community/tree/main/tech-roadmap/swiss-profile.md
-
+We integrate various technologies in the Swiss infrastructure. You can view the supported specifications and the integrated versions in the ["Swiss Profile"](https://github.com/e-id-admin/open-source-community/tree/main/tech-roadmap/swiss-profile.md)
 
 
 # Link to the repositories
@@ -49,15 +48,15 @@ The project consists of multiple repositories for each component.
 
 - Trust Registry → will be published soon
 
-- didresolver →[Github repository](https://github.com/e-id-admin/didresolver)
+- didresolver → will be published soon
 
-- didresolver-swift → [Github repository](https://github.com/e-id-admin/didresolver-swift)
+- didresolver-swift → will be published soon
 
-- didresolver-kotlin → [Github repository](https://github.com/e-id-admin/didresolver-kotlin)
+- didresolver-kotlin → will be published soon
   
-- didresolver-kotlin-android → [Github repository](https://github.com/e-id-admin/didresolver-kotlin-android)
+- didresolver-kotlin-android → will be published soon
 
-- didtoolbox → [Github repository](https://github.com/e-id-admin/didtoolbox)
+- didtoolbox → will be published soon
 
 - iOS Wallet app → [Github repository](https://github.com/e-id-admin/eidch-ios-wallet)
 
