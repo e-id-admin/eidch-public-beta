@@ -48,19 +48,19 @@ The project consists of multiple repositories for each component.
 
 - Trust Registry → will be published soon
 
-- didresolver → will be published soon
+- DID Toolbox → [GitHub repository](https://github.com/e-id-admin/didtoolbox-java)
 
-- didresolver-swift → will be published soon
+- DID Resolver → [GitHub repository](https://github.com/e-id-admin/didresolver)
 
-- didresolver-kotlin → will be published soon
+- DID Resolver Swift → [GitHub repository](https://github.com/e-id-admin/didresolver-swift)
+
+- DID Resolver Kotlin → [GitHub repository](https://github.com/e-id-admin/didresolver-kotlin)
   
-- didresolver-kotlin-android → will be published soon
+- DID Resolver Kotlin/Android → [GitHub repository](https://github.com/e-id-admin/didresolver-kotlin-android)
 
-- didtoolbox → will be published soon
+- iOS Wallet app → [GitHub repository](https://github.com/e-id-admin/eidch-ios-wallet)
 
-- iOS Wallet app → [Github repository](https://github.com/e-id-admin/eidch-ios-wallet)
-
-- Android Wallet app → [Github repository](https://github.com/e-id-admin/eidch-android-wallet)
+- Android Wallet app → [GitHub repository](https://github.com/e-id-admin/eidch-android-wallet)
 
 - Issuer-agent → will be published soon
 
