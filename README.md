@@ -42,25 +42,25 @@ We integrate various technologies in the Swiss infrastructure. You can view the 
 # Link to the repositories
 The project consists of multiple repositories for each component.
 
-- Base Registry → will be published soon
+- Base Registry
+  - [Authoring Service](https://github.com/e-id-admin/eidch-registry-base-authoring)
+  - [Data Service](https://github.com/e-id-admin/eidch-registry-base-data)
 
-- Status Registry → will be published soon
+- Status Registry
+  - [Authoring Service](https://github.com/e-id-admin/eidch-registry-status-authoring)
+  - [Data Service](https://github.com/e-id-admin/eidch-registry-status-data)
+ 
+- Trust Registry
+  - [Authoring Service](https://github.com/e-id-admin/eidch-registry-trust-authoring)
+  - [Data Service](https://github.com/e-id-admin/eidch-registry-trust-data)
 
-- Trust Registry → will be published soon
+- [DID Toolbox](https://github.com/e-id-admin/didtoolbox-java)
 
-- DID Toolbox → [GitHub repository](https://github.com/e-id-admin/didtoolbox-java)
+- [DID Resolver](https://github.com/e-id-admin/didresolver)
 
-- DID Resolver → [GitHub repository](https://github.com/e-id-admin/didresolver)
+- [iOS Wallet App](https://github.com/e-id-admin/eidch-ios-wallet)
 
-- DID Resolver Swift → [GitHub repository](https://github.com/e-id-admin/didresolver-swift)
-
-- DID Resolver Kotlin → [GitHub repository](https://github.com/e-id-admin/didresolver-kotlin)
-  
-- DID Resolver Kotlin/Android → [GitHub repository](https://github.com/e-id-admin/didresolver-kotlin-android)
-
-- iOS Wallet app → [GitHub repository](https://github.com/e-id-admin/eidch-ios-wallet)
-
-- Android Wallet app → [GitHub repository](https://github.com/e-id-admin/eidch-android-wallet)
+- [Android Wallet App](https://github.com/e-id-admin/eidch-android-wallet)
 
 - Issuer-agent → will be published soon
 
