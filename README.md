@@ -31,7 +31,7 @@ Public Beta is a critical milestone on the path to the final e-ID and its trust 
 
 # How to use the Public Beta
 
-The onboarding process for the base- and trust-registry will be published as soon as possible.
+The onboarding process for the base- and trust-registry as well as other use cases can be found in our [cookbooks](https://swiyu-admin-ch.github.io/cookbooks/)
 
 
 # Specifications
@@ -62,8 +62,12 @@ The project consists of multiple repositories for each component.
 
 - [Android Wallet App](https://github.com/e-id-admin/eidch-android-wallet)
 
-- Issuer-agent → will be published soon
+- Issuer-agent
+  - [Generic issuer management service](https://github.com/swiyu-admin-ch/eidch-issuer-agent-management)
+  - [Generic issuer signing service OID4VCI](https://github.com/swiyu-admin-ch/eidch-issuer-agent-oid4vci)
 
-- Verifier-agent → will be published soon
+- Verifier-agent
+  - [Generic verifier management service](https://github.com/swiyu-admin-ch/eidch-verifier-agent-management)
+  - [Generic verification service OID4VP](https://github.com/swiyu-admin-ch/eidch-verifier-agent-oid4vp)
 
 
